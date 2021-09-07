@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{FD26DBCE-E3AE-429B-B706-69B9239D519C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHelpers", "WpfHelpers\WpfHelpers.csproj", "{6D2145A7-6F4D-4CA0-8245-731CE7A2FE3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD26DBCE-E3AE-429B-B706-69B9239D519C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD26DBCE-E3AE-429B-B706-69B9239D519C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD26DBCE-E3AE-429B-B706-69B9239D519C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD26DBCE-E3AE-429B-B706-69B9239D519C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2145A7-6F4D-4CA0-8245-731CE7A2FE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2145A7-6F4D-4CA0-8245-731CE7A2FE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2145A7-6F4D-4CA0-8245-731CE7A2FE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2145A7-6F4D-4CA0-8245-731CE7A2FE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA289B74-DDA8-4C65-BDBD-3B7F0D122343}
+	EndGlobalSection
+EndGlobal
